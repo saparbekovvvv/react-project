@@ -1,0 +1,9 @@
+.Ads {
+  background: #fff;
+}
+.ads-content {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  padding: 130px 0;
+}
